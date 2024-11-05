@@ -1,8 +1,5 @@
-
 function Footerr() {
-  return (
-    <div>Footerr</div>
-  )
+  return <div>Footerr</div>;
 }
 
-export default Footerr
+export default Footerr;
